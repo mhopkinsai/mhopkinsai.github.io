@@ -13,10 +13,10 @@ My work centers on identifying where models break—not just when they are wrong
 ---
 
 ## 🔍 AI Model Evaluation Case Study  
-👉 [View Full Case Study](./case-studies)
+👉  [View Full Case Study](./case-studies/AI_Model_Evaluation_Case_Study_Maranda%20H.pdf)
 
 ## 🧪 AI Labs & Practical Exploration  
-👉 [View Full Case Study](./case-studies/AI_Model_Evaluation_Case_Study_Maranda%20H.pdf)
+👉
 
 ---
 
