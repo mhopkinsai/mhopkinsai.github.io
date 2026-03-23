@@ -13,7 +13,7 @@ My work centers on identifying where models break—not just when they are wrong
 ---
 
 ## 🔍 AI Model Evaluation Case Study  
-👉 [View Full Case Study](./case-study/)
+👉 [View Full Case Study](./case-studies)
 
 ## 🧪 AI Labs & Practical Exploration  
 👉 [View Labs](./labs/)
