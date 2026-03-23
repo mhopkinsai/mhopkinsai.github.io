@@ -16,7 +16,7 @@ My work centers on identifying where models break—not just when they are wrong
 👉 [View Full Case Study](./case-studies)
 
 ## 🧪 AI Labs & Practical Exploration  
-👉 [View Labs](./labs/)
+👉 [View Full Case Study](./case-studies/AI_Model_Evaluation_Case_Study_Maranda%20H.pdf)
 
 ---
 
